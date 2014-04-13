@@ -1,0 +1,6 @@
+# maven target dir
+TyhjaProjekti/target/
+
+# idea ide settings
+TyhjaProjekti/.idea/
+*.iml
